@@ -1,5 +1,4 @@
 import 'package:adminapp/list_customer/component/customer_screen.dart';
-import 'package:adminapp/list_customer/component/food_list.dart';
 import 'package:adminapp/list_customer/component/settings_screen.dart';
 import 'package:adminapp/list_customer/component/shared_app_title.dart';
 import 'package:adminapp/tables/reserved_table.dart';

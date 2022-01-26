@@ -1,5 +1,4 @@
 import 'package:adminapp/list_customer/component/offers_screen.dart';
-import 'package:adminapp/list_customer/component/settings_screen.dart';
 import 'package:adminapp/list_customer/component/shared_app_title.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
